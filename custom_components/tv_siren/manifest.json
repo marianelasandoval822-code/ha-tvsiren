@@ -5,6 +5,6 @@
   "config_flow": true,
   "requirements": [],
   "dependencies": [],
-  "codeowners": []
+  "codeowners": [],
   "iot_class": "local_push"
 }
