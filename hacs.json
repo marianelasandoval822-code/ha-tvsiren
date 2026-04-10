@@ -1,0 +1,7 @@
+{
+  "name": "Ha TVSiren",
+  "content_in_root": false,
+  "domain": "tv_siren",
+  "country": "ALL",
+  "homeassistant": "2024.1.0"
+}
