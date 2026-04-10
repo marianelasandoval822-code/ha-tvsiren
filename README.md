@@ -125,8 +125,7 @@ Pull requests and suggestions are welcome.
 ---
 
 ## License
-
-MIT License
+Apache License
 
 ---
 
